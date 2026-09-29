@@ -263,7 +263,32 @@ I'm interested in collaborating on:
 > real projects.
 
 # 🚀 My AI Learning Path
+# 🚀 My AI Learning Path
 
+```text
+Python
+   ↓
+Data Processing
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Computer Vision + NLP
+   ↓
+Chatbots
+   ↓
+REST API / FastAPI
+   ↓
+LLMs
+   ↓
+Embeddings
+   ↓
+RAG
+   ↓
+AI Agents
+   ↓
+Deployment
 
 
 
