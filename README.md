@@ -266,38 +266,12 @@ I'm interested in collaborating on:
 
 
 
-```text
-Python
-   ↓
-Data Processing
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Computer Vision + NLP
-   ↓
-Chatbots
-   ↓
-REST API / FastAPI
-   ↓
-LLMs
-   ↓
-Embeddings
-   ↓
-RAG
-   ↓
-AI Agents
-   ↓
-Deployment
-<!--
+
 
 <td align="center">
   <b>🚀 Deployment</b>
-</td>
-
-<td align="center">
-  <img src="./assets/ai-learning.gif" width="120">
+  <br><br>
+  <img src="./assets/ai-learning.gif" width="200" alt="AI Learning">
 </td>
 
 
