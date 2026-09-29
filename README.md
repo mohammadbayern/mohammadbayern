@@ -262,31 +262,7 @@ I'm interested in collaborating on:
 > by studying models, but by building, testing, evaluating and improving
 > real projects.
 
-# 🚀 My AI Learning Path
-```text
-Python
-   ↓
-Data Processing
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-Computer Vision + NLP
-   ↓
-Chatbots
-   ↓
-REST API / FastAPI
-   ↓
-LLMs
-   ↓
-Embeddings
-   ↓
-RAG
-   ↓
-AI Agents
-   ↓
-Deployment
+
 
 # 🚀 My AI Learning Path
 
