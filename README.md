@@ -263,8 +263,6 @@ I'm interested in collaborating on:
 > real projects.
 
 # 🚀 My AI Learning Path
-# 🚀 My AI Learning Path
-
 ```text
 Python
    ↓
@@ -289,6 +287,9 @@ RAG
 AI Agents
    ↓
 Deployment
+
+# 🚀 My AI Learning Path
+
 
 
 
