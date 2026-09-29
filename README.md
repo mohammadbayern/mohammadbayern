@@ -292,5 +292,12 @@ AI Agents
 Deployment
 <!--
 
+<td align="center">
+  <b>🚀 Deployment</b>
+</td>
+
+<td align="center">
+  <img src="./assets/ai-learning.gif" width="120">
+</td>
 
 
