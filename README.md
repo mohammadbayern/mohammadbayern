@@ -268,10 +268,9 @@ I'm interested in collaborating on:
 
 
 
-<td align="center">
-  <b>🚀 Deployment</b>
-  <br><br>
-  <img src="./assets/ai-learning.gif" width="200" alt="AI Learning">
-</td>
+<br>
 
+<p align="center">
+  <img src="./assets/ai-learning.gif" width="500" alt="AI Learning">
+</p>
 
