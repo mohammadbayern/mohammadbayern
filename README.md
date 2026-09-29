@@ -246,7 +246,25 @@ production-oriented AI systems.
 
 ---
 
+# 🤝 Collaboration
+
+I'm interested in collaborating on:
+- AI and Machine Learning projects
+- Deep Learning and Computer Vision
+- NLP and Chatbot projects
+- Practical AI applications and open-source projects
+
+
+
+# ⚡ Fun Fact
+
+> I believe the best way to learn Artificial Intelligence is not only
+> by studying models, but by building, testing, evaluating and improving
+> real projects.
+
 # 🚀 My AI Learning Path
+
+
 
 ```text
 Python
@@ -273,5 +291,117 @@ AI Agents
    ↓
 Deployment
 <!--
-**mohammadbayern/mohammadbayern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+# 🚀 My AI Learning Path
+
+<table>
+<tr>
+
+<td align="center">
+  <b>🐍 Python</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+  <b>📊 Data Processing</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+  <b>🤖 Machine Learning</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+  <b>🧠 Deep Learning</b>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="7" align="center">↓</td>
+</tr>
+
+<tr>
+
+<td align="center">
+  <b>👁️ Computer Vision</b>
+</td>
+
+<td>+</td>
+
+<td align="center">
+  <b>💬 NLP</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+  <b>🤖 Chatbots</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+  <b>⚡ REST API / FastAPI</b>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="7" align="center">↓</td>
+</tr>
+
+<tr>
+
+<td align="center">
+  <b>🧠 LLMs</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+  <b>🔗 Embeddings</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+  <b>📚 RAG</b>
+</td>
+
+<td>→</td>
+
+<td align="center">
+  <b>🤖 AI Agents</b>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="7" align="center">↓</td>
+</tr>
+
+<tr>
+
+<td colspan="5"></td>
+
+<td align="center">
+  <b>🚀 Deployment</b>
+</td>
+
+<td align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZ0c2JqN3R6cDk0d2R5N2R4c3ZqZ3F4bW5qY2Z3N2JxZ3ZqZyZ6/3o7aD2saalBwwftBIY/giphy.gif" width="100">
+</td>
+
+</tr>
+
+</table>
+
+
 
