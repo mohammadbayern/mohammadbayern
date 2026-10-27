@@ -270,9 +270,7 @@ I'm interested in collaborating on:
 
 
 
-<br>
 
 <p align="center">
-  <img src="./assets/ai-learning.gif" width="500" alt="AI Learning">
+  <img src="./assets/ai-learning.gif" width="100%" alt="My AI Learning Path">
 </p>
-
