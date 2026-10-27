@@ -267,10 +267,7 @@ I'm interested in collaborating on:
 # 🚀 My AI Learning Path
 
 
-
-
-
-
 <p align="center">
-  <img src="./assets/ai-learning.gif" width="100%" alt="My AI Learning Path">
+  <img src="./assets/ai-learning5.gif" width="100%" alt="My AI Learning Path">
 </p>
+
